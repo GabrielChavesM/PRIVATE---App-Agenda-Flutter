@@ -1,0 +1,1 @@
+ /Users/gabrielchaves/Desktop/App-Agenda-Flutter-main/.dart_tool/flutter_build/2fc3a9216587345d583dfd5e158e8f27/native_assets.yaml: 
